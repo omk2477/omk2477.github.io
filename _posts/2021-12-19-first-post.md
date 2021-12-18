@@ -1,18 +1,15 @@
 ---
+layout: post
 title: "미루고 미루다가 쓰는 첫 포스트"
 excerpt: "바쁘다는 핑계로 미뤘던 블로그 운영. 종강 후 첫 포스트를 써본다!"
-
 categories:
   - Blog
 tags:
   - [Blog, jekyll, Github, Git, 종강, 첫포스트]
-
-toc: false
-toc_sticky: false
- 
 date: 2021-12-19
 last_modified_at: 2021-12-19
 ---
+
 # 블로그 개시!
 블로그를 만든건 8월이지만 이제서야 글을 쓰는 이유는..   
 여러가지가 있지만 사실 가장 큰 이유는 귀찮음이다.   
