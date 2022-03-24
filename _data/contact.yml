@@ -11,6 +11,10 @@
   icon: 'fas fa-envelope'
   noblank: true            # open link in current tab
 -
+  type: linkedin
+  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  url:  'https://www.linkedin.com/in/%EC%8A%B9%EC%9C%A4-%EC%9D%B4-706461235/'                  # Fill with your Linkedin homepage
+-
   type: rss
   icon: 'fas fa-rss'
   noblank: true
