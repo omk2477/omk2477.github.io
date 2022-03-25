@@ -48,7 +48,7 @@ social:
     - https://github.com/omk2477       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/%EC%8A%B9%EC%9C%A4-%EC%9D%B4-706461235/
 
 google_site_verification:               # fill in to your verification string
 
@@ -195,6 +195,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-# plugins:
-#   - jemoji
