@@ -3,7 +3,7 @@ layout: post
 title: "미루고 미루다가 쓰는 첫 포스트"
 excerpt: "바쁘다는 핑계로 미뤘던 블로그 운영. 종강 후 첫 포스트를 써본다!"
 categories:
-  - Daily
+  - 일상
 tags:
   - [Blog, jekyll, Github, Git, 종강, 첫포스트]
 date: 2021-12-19
