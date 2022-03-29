@@ -7,7 +7,7 @@ categories:
 tags:
   - [aws, awsgameday, 대회, 2등]
 date: 2022-03-28
-last_modified_at: 2022-03-28
+last_modified_at: 2022-03-29
 ---
 
 # AWS Gameday에 참가하다
