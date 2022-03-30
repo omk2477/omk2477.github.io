@@ -10,7 +10,6 @@ date: 2022-03-28
 last_modified_at: 2022-03-29
 ---
 
-# AWS Gameday에 참가하다
 AWS Gameday에 참가하였다.  
 AWS Gameday는 일종의 카오스 엔지니어링 시뮬레이션을 통해 점수를 얻어 경쟁하는 게임으로,  
 넷플릭스에서 IT 인프라의 회복력을 테스트하기 위해 만든 Chaos Monkey를 이용한 게임이다.
