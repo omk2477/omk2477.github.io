@@ -19,6 +19,11 @@
   icon: 'fas fa-rss'
   noblank: true
 
+-
+  type: notion
+  icon: 'fas fa-notion'
+  url: 'https://prickly-hare-099.notion.site/bde05cbe79024216a62693bccb0b7c8f'
+
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
