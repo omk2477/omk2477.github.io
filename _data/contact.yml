@@ -12,7 +12,7 @@
   noblank: true            # open link in current tab
   
 -
-  type: notion
+  type: resume
   icon: 'fas fa-file-user'
   url: 'https://prickly-hare-099.notion.site/bde05cbe79024216a62693bccb0b7c8f'
 
