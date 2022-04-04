@@ -16,10 +16,10 @@
   icon: 'fas fa-address-card'
   url: 'https://prickly-hare-099.notion.site/bde05cbe79024216a62693bccb0b7c8f'
 
--
-  type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-  url:  'https://www.linkedin.com/in/%EC%8A%B9%EC%9C%A4-%EC%9D%B4-706461235/'                  # Fill with your Linkedin homepage
+# -
+#   type: linkedin
+#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+#   url:  'https://www.linkedin.com/in/%EC%8A%B9%EC%9C%A4-%EC%9D%B4-706461235/'                  # Fill with your Linkedin homepage
 -
   type: rss
   icon: 'fas fa-rss'
