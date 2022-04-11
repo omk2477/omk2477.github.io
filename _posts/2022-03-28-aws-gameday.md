@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AWS Gameday에 참가하다"
-excerpt: Unicon rental에서 생긴 일"
+excerpt: Unicon rental에서 생긴 일
 categories:
   - 대외활동
 tags:
