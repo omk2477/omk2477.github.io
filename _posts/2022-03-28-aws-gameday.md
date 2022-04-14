@@ -8,7 +8,12 @@ tags:
   - [aws, awsgameday, 대회, 2등]
 date: 2022-03-28
 last_modified_at: 2022-03-29
-image: /post_images/2022-03-28-aws-gameday/kurly.png
+#TODO: 이미지가 나타나지 않는 오류 수정
+image:
+  path: /post_images/2022-03-28-aws-gameday/kurly.png
+  width: 1000   # in pixels
+  height: 400   # in pixels
+  alt: image alternative text
 ---
 
 AWS Gameday에 참가하였다.  
