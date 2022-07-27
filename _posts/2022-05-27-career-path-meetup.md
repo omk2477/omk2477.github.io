@@ -2,6 +2,10 @@
 layout: post
 title : 커리어패스와 무관합니다만, 밋업 후기
 summary : 코딩이랑 무관합니다만, X 마켓컬리 커리어 특집 밋업
+categories:
+  - 대외활동
+tags:
+  - [코딩이랑무관합니다만, 코무, 커리어, 취업, 이직]
 date  : 2022-07-28 00:00:00 +0900
 author: 이승윤
 public: true
