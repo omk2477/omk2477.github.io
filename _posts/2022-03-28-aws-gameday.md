@@ -10,11 +10,12 @@ date: 2022-03-28
 last_modified_at: 2022-03-29
 #TODO: 이미지가 나타나지 않는 오류 수정
 image:
-  path: ../post_images/2022-03-28-aws-gameday/kurly.png
+  path: /post_images/2022-03-28-aws-gameday/kurly.png
   width: 1000   # in pixels
   height: 400   # in pixels
   alt: image alternative text
 ---
+![kurly](/post_images/2022-03-28-aws-gameday/kurly.png)
 
 AWS Gameday에 참가하였다.  
 AWS Gameday는 일종의 카오스 엔지니어링 시뮬레이션을 통해 점수를 얻어 경쟁하는 게임으로,  
