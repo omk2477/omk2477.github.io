@@ -28,20 +28,26 @@ Datadog은 여러 인프라 및 어플리케이션 지표들을 연결하여 볼
 ![dash2](/post_images/2022-10-23-datadog-dash/dash2.jpg)
 Datadog Dash는 Datadog의 최신 기능을 발표하고 기술에 대해 데모 시연 및 설명을 진행합니다.  이번 Datadog Dash 에서는 다음의 기능들에 대해 발표했습니다.  
 1. Open Telemetry
-    - 오픈텔레메트리와 상호 연동
-2. Service Catalo
+    - 오픈텔레메트리와 상호 연동을 정식 지원함
+2. Service Catalog
     - 서비스 카탈로그 기능은 Devops 관점에서, 각 서비스의 전체적인 상태를 확인할 수 있는 기능.
-    - 서비스의 에러율, 지연 상태, 전체적인 메트릭 상태 및 ops 관련 내용, 해당 서비스의 온콜 담당자도 확인이 가능.
+    - 서비스의 에러율, 지연 상태, 전체적인 메트릭 상태 및 ops 관련 내용, 해당 서비스의 온콜 담당자도 확인이 가능함
 3. PowerPacks
-    - 다른 사용자가 작성한 대시보드를 팩 형식으로 받아 사용 가능.
-    - org 내 리소스만 사용 가능.
+    - 다른 사용자가 작성한 대시보드를 팩 형식으로 받아 사용 가능함
+    - org 내 리소스만 사용 가능함
 4. Data Streams
-    - 데이터의 흐름, 파이프라인 진행 등을 확인 가능.
+    - 데이터의 흐름, 파이프라인 진행 등을 확인 가능함
 5. Cloud Cost Management
-    - 사용하는 클라우드의 비용 등 사용량을 볼 수 있음.
-    - 프로덕트별, 팀별 등 나눌 수 있으며 전월 이후 증가량도 확인이 가능.
+    - 사용하는 클라우드의 비용 등 사용량을 볼 수 있음
+    - 프로덕트별, 팀별 등 나눌 수 있으며 전월 이후 증가량도 확인이 가능함
 
 보다 자세한 내용은 [Datadog blog - Dash 2022](https://www.datadoghq.com/blog/dash-2022-new-feature-roundup/) 에서 확인이 가능합니다.
+
+### Workshop
+각 세션에서 다양한 핸즈온 워크샵들도 진행이 되었습니다.
+Datadog Learn 사이트를 통해 가상 환경에서 직접 Datadog 설치를 위한 명령어를 입력해보고, 체험 계정에서 직접 수집된 메트릭들도 확인이 가능했습니다.
+
+Datadog Workshop에서 진행된 내용들은 [Dash 2022 Workshops](https://learn.datadoghq.com/pages/2022-dash-workshop-videos) 에서 확인이 가능합니다.
 
 ### 데모 시연
 대부분의 신 기능들은 현재 Beta 버전으로, 별도 신청을 해야만 기능이 오픈되는 형식이었습니다.  
